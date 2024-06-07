@@ -1,0 +1,46 @@
+[
+  {
+    "S. No.": 1,
+    "SAP ID": 52657678,
+    "First Name": "Surampally",
+    "Last Name": "Sharon",
+    "Email": "sharon@gmail.com",
+    "Phone Number": 35645432,
+    "Manager Name": "XYZ",
+    "Working Location": "Hyd",
+    "Role": "GET"
+  },
+  {
+    "S. No.": 2,
+    "SAP ID": 38475634,
+    "First Name": "D",
+    "Last Name": "Dedeepya",
+    "Email": "dedeepya@gmail.com",
+    "Phone Number": 872654523,
+    "Manager Name": "XYZ",
+    "Working Location": "Kol",
+    "Role": "GET"
+  },
+  {
+    "S. No.": 3,
+    "SAP ID": 93487324,
+    "First Name": "k",
+    "Last Name": "Vyshanvi",
+    "Email": "kvy@gmail.com",
+    "Phone Number": 230984365,
+    "Manager Name": "XYZ",
+    "Working Location": "Banglore",
+    "Role": "GET"
+  },
+  {
+    "S. No.": 4,
+    "SAP ID": 39481246,
+    "First Name": "N",
+    "Last Name": "Poojitha",
+    "Email": "pooj@gmail.com",
+    "Phone Number": "0394878165",
+    "Manager Name": "XYZ",
+    "Working Location": "chennai",
+    "Role": "GET"
+  }
+]
